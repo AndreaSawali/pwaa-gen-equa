@@ -1,0 +1,49 @@
+{
+  "name": "Welcome to MIT 502 - Advanced Media and Web Technologies",
+  "short_name":"WaysGenEqua",
+  "icons": [{
+    "src": "img/gender-equality-logo-concept_546897-580.jpg",
+      "sizes": "60x60",
+      "type": "image/png",
+      "purpose": "any maskable"
+      
+    }, {
+      "src": "img/logo-ccs-90.png",
+      "sizes": "90x90",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }, {
+      "src": "img/logo-ccs-100.png",
+      "sizes": "100x100",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+    ,{
+      "src": "img/ge.jpg",
+      "sizes": "286x176",
+      "type": "image/jpg",
+      "purpose": "any maskable"
+    },{
+      "src": "img/ge1.jpg",
+      "sizes": "3000x2000",
+      "type": "image/jpg",
+      "purpose": "any maskable"
+    }
+    ,{
+      "src": "img/ge2.jpg",
+      "sizes": "980x980",
+      "type": "image/jpg",
+      "purpose": "any maskable"
+    }
+    , {
+      "src": "im/logo-ccs-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }],
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
+}
